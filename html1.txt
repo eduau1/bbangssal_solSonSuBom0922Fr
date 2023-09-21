@@ -1,0 +1,24 @@
+BBBBBBBBBBBBBBBBBBBBBBBBB
+
+
+<h1>👋 Hello World!</h1>
+
+<button onclick="document.getElementsByTagName('h1')[0].style = 'color:blue'; document.getElementsByTagName('button')[0].innerHTML = 'hihi'"> Change </button>
+
+<input type="button" value='back' onclick >
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+
+
+
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+
+
+document.getElementsByTagName("h1")[0].style.fontSize = "3vw";
